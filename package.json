@@ -1,0 +1,25 @@
+{
+  "name": "sf2017",
+  "version": "1.0.0",
+  "description": "superfkra website 2017 version",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadabo/sf2017.git"
+  },
+  "keywords": [
+    "super",
+    "fkra",
+    "fikir",
+    "idea"
+  ],
+  "author": "Abdul-hadi Hawari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hadabo/sf2017/issues"
+  },
+  "homepage": "https://github.com/hadabo/sf2017#readme"
+}
